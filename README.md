@@ -30,6 +30,7 @@ Saya adalah seorang **Fullstack Developer** yang saat ini berfokus membangun sis
 - 🤝 Terbuka untuk kolaborasi dalam proyek **Laravel / Frontend Development**.
 - 🎮 **Di luar kode:** Saat tidak sedang di depan IDE, saya biasanya sibuk *push rank* di *game*, berburu *angle* fotografi, atau mencari nada yang pas dengan gitar saya.
 - ⚡ **Fun Fact:** Saya bisa menemukan dan memperbaiki *bug* logika lebih cepat daripada memilih palet warna yang cocok dari awal!
+- 💻 **Next To Do** Saya sedang mempelajari AI dan pengembangan dalam bidang IoT!
 
 ---
 
